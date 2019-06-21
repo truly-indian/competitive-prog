@@ -1,7 +1,5 @@
-
 #include<iostream>
 using namespace std;
-
 void multiply(int *arr,int &n,int no){
     int carry = 0;
 for(int i=0;i<n;i+=1){
